@@ -8,7 +8,7 @@ Initial point for creating the ReactJS and Backbone.js based applications.
 * Backbone.js
 * Gulp
 * Browserify
-* Bable
+* Babel
 
 App placed in the `frontend/scripts/App/` folder.
 
